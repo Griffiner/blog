@@ -1,0 +1,6 @@
+{
+  "name": "Medium Style Personal Blog",
+  "description": "A clean, minimalist personal blog mimicking the Medium article reading and publishing experience with rich text support, category tags, claps, bookmarks, and comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
