@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { BookOpen, Search, Edit3, Bell, Bookmark, LogOut, Key, Menu, X, Globe } from "lucide-react";
-import { motion, AnimatePresence } from "motion/react";
+import { motion, AnimatePresence } from "framer-motion"
 import { Author } from "../types";
 
 interface HeaderProps {
